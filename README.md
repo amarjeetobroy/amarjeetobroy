@@ -70,7 +70,7 @@ I'm Amarjeet a CSE student of Mahendra Institute of technology tamilnadu
 <!-- <a href = "https://www.linkedin.com/in/kundan-kumar-841843225"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> -->
 <a href = "https://twitter.com/Amarjeet7992"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/obroyamarjeet/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UCOyyHNQjRH4c8CMi1ns0TXw"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.youtube.com/@expertcoding3624"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
   
